@@ -25,4 +25,9 @@ PratiquesGit/
 3. Intégration de `git difftool` avec Meld.
 4. Création du dossier SourceTree.
 
+## Objectif
+- Apprendre à utiliser Git, GitHub et les outils de comparaison de fichiers.
+- Utilisation de **Meld** pour comparer des fichiers et dossiers.
+- Configuration de **SourceTree** pour la gestion graphique de Git.
+
 ---
