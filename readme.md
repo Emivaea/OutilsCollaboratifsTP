@@ -22,7 +22,7 @@ PratiquesGit/
 ## 📌 Étapes réalisées :
 1. Création de l’arborescence et versionnement.
 2. Ajout des tutoriels sur Meld et son installation.
-3. Intégration de `git difftool` avec Meld.
+3. Intégration de *git difftool* avec Meld.
 4. Création du dossier SourceTree.
 
 ## Objectif
