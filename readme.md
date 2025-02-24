@@ -5,14 +5,14 @@ Ce projet est un TP d'apprentissage de Git et de ses outils associés.
 ## 📂 Arborescence du projet :
 
 PratiquesGit/
-│── Figures/
-│── Tutoriels/
-│   ├── installation.md
-│   ├── utilisation.md
-│   ├── exemple.md
-│── Log/
-│── SourceTree/
-│── readme.md
+│── Figures/.
+│── Tutoriels/.
+│   ├── installation.md.
+│   ├── utilisation.md.
+│   ├── exemple.md.
+│── Log/.
+│── SourceTree/.
+│── readme.md.
 
 ## 🔧 Outils utilisés :
 - **Meld** : Outil de comparaison de fichiers et d’intégration avec `git difftool`.
